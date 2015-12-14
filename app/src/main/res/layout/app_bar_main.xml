@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+
+    tools:context="qsdddddddddo.shaoyou.free.aaaaaaaaaaaaaaaaaaaaaaaaaaa.MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+
+        >
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#333366"
+            android:gravity="center"
+            android:titleTextAppearance="@style/nimabi"
+            android:subtitleTextAppearance="@style/nimabi2"
+
+
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+        <!-- android:background="?attr/colorPrimary"
+          android:layout_height="?attr/actionBarSize"
+         -->
+
+    </android.support.design.widget.AppBarLayout>
+
+    <include
+        android:id="@+id/include1"
+        layout="@layout/content_main" />
+
+    <include
+        android:id="@+id/include2"
+        layout="@layout/ti_xing"
+        android:visibility="gone" />
+
+
+    <include
+        android:id="@+id/include3"
+        layout="@layout/zongjie"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/include4"
+        layout="@layout/she_zhi"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/include5"
+        layout="@layout/fenx_xiang"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/include6"
+        layout="@layout/yi_jian"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/include7"
+        layout="@layout/shangchuan"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/include8"
+        layout="@layout/shangchuan"
+        android:visibility="gone" />
+    <include
+        android:id="@+id/include9"
+        layout="@layout/yao_qing"
+        android:visibility="gone" />
+    <include
+        android:id="@+id/include10"
+        layout="@layout/guan_yu"
+        android:visibility="gone" />
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        android:src="@android:drawable/ic_dialog_email"
+        android:visibility="gone" />
+
+</android.support.design.widget.CoordinatorLayout>

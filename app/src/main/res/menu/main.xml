@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/yaoqing"
+        android:orderInCategory="100"
+        android:title="邀请"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="关于"
+        app:showAsAction="never" />
+    <!--<item-->
+        <!--android:id="@+id/set4"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="咩咩"-->
+        <!--app:showAsAction="never" />-->
+    <!--<item-->
+        <!--android:id="@+id/action_settings2"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="咩咩"-->
+        <!--app:showAsAction="never" />-->
+    <!--<item-->
+        <!--android:id="@+id/action_settings33"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="咩咩"-->
+        <!--app:showAsAction="never" />-->
+    <!--<item-->
+        <!--android:id="@+id/action_settings4"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="咩咩"-->
+        <!--app:showAsAction="never" />-->
+</menu>

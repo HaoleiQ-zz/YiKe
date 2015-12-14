@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.INTERNET
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:22:5-84
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:22:22-81
+application
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:25:5-50:19
+MERGED from [com.yydcdut.sdlv:sdlv:0.2.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.yydcdut.sdlv\sdlv\0.2.1\AndroidManifest.xml:13:5-14:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:28:9-41
+	android:supportsRtl
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:29:9-35
+	android:allowBackup
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:27:9-43
+	android:theme
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:30:9-40
+activity#qo.shaoyou.free.qo.activity.Main
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:31:9-40:20
+	android:label
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:33:13-45
+	android:theme
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:32:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:38:27-74
+activity#qo.shaoyou.free.qo.activity.DengLu
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:41:9-43:61
+	android:screenOrientation
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:42:13-44
+activity#qo.shaoyou.free.qo.activity.ZhuCe
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:44:9-46:61
+	android:screenOrientation
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:45:13-43
+activity#qo.shaoyou.free.qo.activity.ZhuCe2
+ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:47:9-49:52
+	android:screenOrientation
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml:48:13-44
+uses-sdk
+INJECTED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.yydcdut.sdlv:sdlv:0.2.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.yydcdut.sdlv\sdlv\0.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Space\WorkSpace\AndroidThink\Qo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from [com.yydcdut.sdlv:sdlv:0.2.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.yydcdut.sdlv\sdlv\0.2.1\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from [com.yydcdut.sdlv:sdlv:0.2.1] G:\Space\WorkSpace\AndroidThink\Qo\app\build\intermediates\exploded-aar\com.yydcdut.sdlv\sdlv\0.2.1\AndroidManifest.xml:11:22-63

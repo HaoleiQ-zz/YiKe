@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "qo.shaoyou.free.qo.activity.Main"/>
+      <point      
+        x = "1036"      
+        y = "40"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "qo.shaoyou.free.qo.activity.ZhuCe2"/>
+      <point      
+        x = "28"      
+        y = "8"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "qo.shaoyou.free.qo.activity.ZhuCe"/>
+      <point      
+        x = "2112"      
+        y = "48"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "qo.shaoyou.free.qo.activity.DengLu"/>
+      <point      
+        x = "3072"      
+        y = "148"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

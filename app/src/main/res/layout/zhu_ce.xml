@@ -1,0 +1,276 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg1"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    tools:context="com.univalsoft.gongqzs.Login">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.54"
+        android:background="@color/bg1"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical"></RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"></RelativeLayout>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:background="#455566" />
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:background="#455566" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relativeLayout3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="34dp"
+        android:layout_weight="0.54"
+        android:gravity="center"
+        android:text="@string/app_name"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#acacac"
+        android:textSize="29sp" />
+
+    <RelativeLayout
+        android:id="@+id/rl"
+        android:layout_width="220dp"
+        android:layout_height="266dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/yonghuming1"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_marginTop="1dp"
+                android:background="@drawable/edittext_down"
+                android:gravity="center"
+                android:hint="输用户名"
+                android:singleLine="true"
+                android:textColor="@android:color/darker_gray"
+                android:textColorHint="#999999"
+                android:textCursorDrawable="@null"
+                android:textSize="15sp">
+
+                <requestFocus />
+            </EditText>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="1dp"
+                android:background="#455566" />
+
+            <Button
+                android:id="@+id/clear11"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="3dp"
+                android:background="@drawable/ic_x_circle_white"
+                android:visibility="invisible" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:src="@drawable/ww"
+                android:visibility="invisible" />
+
+            <ImageView
+                android:id="@+id/imageView1111"
+                android:layout_width="20dp"
+                android:layout_height="25dp"
+                android:layout_alignLeft="@+id/imageView1"
+                android:layout_centerVertical="true"
+                android:src="@drawable/ww" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/relativeLayout1"
+            android:layout_marginTop="1dp">
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="1dp"
+                android:background="#455566" />
+
+            <EditText
+                android:id="@+id/mima22"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_marginTop="1dp"
+                android:background="@drawable/edittext_down"
+                android:gravity="center"
+                android:hint="输入密码"
+                android:password="true"
+                android:singleLine="true"
+                android:textColor="@android:color/darker_gray"
+                android:textColorHint="#999999"
+                android:textCursorDrawable="@null"
+                android:textSize="15sp" />
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="1dp"
+                android:background="#6e4f20" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:src="@drawable/www" />
+
+            <ImageView
+                android:id="@+id/imageView22"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_alignLeft="@+id/imageView2"
+                android:layout_alignTop="@+id/imageView2"
+                android:layout_marginTop="12dp"
+                android:src="@drawable/www1"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/Button01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/login"
+            android:layout_marginTop="3dp"
+            android:background="@drawable/button_style1"
+            android:text="注册"
+            android:textColor="@android:color/white"
+            android:visibility="gone" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/relativeLayout2"
+            android:background="#6e4f20" />
+
+        <EditText
+            android:id="@+id/EditText01"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:layout_below="@+id/view1"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/edittext_down"
+            android:gravity="center"
+            android:hint="重复密码"
+            android:password="true"
+            android:singleLine="true"
+            android:textColor="@android:color/darker_gray"
+            android:textColorHint="#999999"
+            android:textCursorDrawable="@null"
+            android:textSize="15sp" />
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:background="#6e4f20" />
+
+        <View
+            android:id="@+id/View01"
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:layout_alignBottom="@+id/EditText01"
+            android:layout_alignParentLeft="true"
+            android:background="#6e4f20" />
+
+        <ImageView
+            android:id="@+id/ImageView02"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignLeft="@+id/login"
+            android:layout_alignTop="@+id/EditText01"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="12dp"
+            android:src="@drawable/www" />
+
+        <Button
+            android:id="@+id/login222"
+            android:layout_width="wrap_content"
+            android:layout_height="42dp"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/EditText01"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/button_style1"
+            android:text="注 册"
+            android:textColor="#acacac"
+            android:visibility="visible" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/rl"
+        android:layout_alignLeft="@+id/rl"
+        android:layout_below="@+id/textView1"
+        android:padding="0dp">
+
+        <AutoCompleteTextView
+            android:id="@+id/yonghuming22"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/edittext_down"
+            android:completionThreshold="@null"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="输入邮箱"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textColor="@android:color/darker_gray"
+            android:textColorHint="#999999"
+            android:textCursorDrawable="@null"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/ImageView01"
+            android:layout_width="20dp"
+            android:layout_height="25dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/ww4" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">一刻</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="appname1">醒时</string>
+
+    <string name="appname2">今朝</string>
+
+    <string name="appname3">几时</string>
+    <string name="appname4">一刻</string>
+    <string name="appname5">Settings</string>
+    <string name="appname6">Settings</string>
+
+
+</resources>

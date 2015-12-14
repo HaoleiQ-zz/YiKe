@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+    >
+
+    <!--<group android:checkableBehavior="all">-->
+    <item
+        android:id="@+id/Denglu2"
+        android:icon="@drawable/aww"
+        android:title="计划" />
+    <item
+        android:id="@+id/nav_gallery"
+        android:icon="@drawable/aaww"
+        android:title="提醒" />
+    <item
+        android:id="@+id/nav_slideshow"
+        android:icon="@drawable/aaaaww"
+        android:title="日志" />
+
+
+    <item android:title="分享">
+        <menu>
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/ww"
+                android:title="我的" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/aaa1aaaaa"
+                android:title="社区" />
+
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/a3"
+                android:title="建议" />
+
+        </menu>
+    </item>
+
+    <item android:title="帐号">
+        <menu>
+            <item
+                android:id="@+id/beifen"
+                android:icon="@drawable/ww4"
+                android:title="上传/备份" />
+            <item
+                android:id="@+id/Denglu"
+                android:icon="@drawable/www"
+                android:title="登录/切换" />
+
+        </menu>
+    </item>
+    <!--</group>-->
+    <!--<item android:title="其他">
+        <menu>
+            <item
+                android:id="@+id/a2"
+                android:icon="@drawable/ww4"
+                android:title="不要" />
+            <item
+                android:id="@+id/a3"
+                android:icon="@drawable/ww"
+                android:title="咩咩" />
+
+        </menu>
+    </item>-->
+
+</menu>
