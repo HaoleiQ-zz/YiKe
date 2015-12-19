@@ -172,6 +172,7 @@ public class ZhuCe extends Activity implements OnClickListener {
                 @Override
                 public void onFailure(int code, String msg) {
                     // Toast.makeText(ZhuCe.this, "服务器异常,注册失败", 0).show();
+                    Toast.makeText(ZhuCe.this, msg, Toast.LENGTH_SHORT).show();
                     Toast.makeText(ZhuCe.this, "服务器罢工啦，请尝试游客登录", Toast.LENGTH_SHORT).show();
 
                 }
@@ -188,7 +189,6 @@ public class ZhuCe extends Activity implements OnClickListener {
             Toast.makeText(ZhuCe.this, "您的邮箱填写错误,请填写正确的邮箱", Toast.LENGTH_SHORT).show();
             autoTextView.setText("");
         }
-
 
 
     }

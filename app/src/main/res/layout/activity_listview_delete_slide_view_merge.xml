@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/view_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" >
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/holder"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/delete_holder_bg"
+        android:clickable="true" >
+
+        <TextView
+            android:id="@+id/edit"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:background="@color/topbeijing2"
+            android:textSize="16sp"
+            android:text="编辑"
+            android:textColor="@color/floralwhite" />
+
+        <TextView
+            android:id="@+id/delete"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_centerInParent="true"
+            android:layout_toRightOf="@+id/edit"
+            android:background="#CC3333"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:text="删除"
+            android:textColor="@color/floralwhite" />
+    </RelativeLayout>
+
+</merge>

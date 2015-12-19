@@ -18,12 +18,15 @@
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
+            android:layout_height="55dp"
+            android:layout_gravity="left|start"
+            android:layout_marginLeft="-10dp"
             android:background="#333366"
-            android:gravity="center"
-            android:titleTextAppearance="@style/nimabi"
+            android:gravity="left"
+            android:padding="0dp"
+            android:paddingLeft="-15dp"
             android:subtitleTextAppearance="@style/nimabi2"
+            android:titleTextAppearance="@style/nimabi"
 
 
             app:popupTheme="@style/AppTheme.PopupOverlay" />
@@ -46,6 +49,7 @@
     <include
         android:id="@+id/include3"
         layout="@layout/zongjie"
+
         android:visibility="gone" />
 
     <include
@@ -55,7 +59,7 @@
 
     <include
         android:id="@+id/include5"
-        layout="@layout/fenx_xiang"
+        layout="@layout/wode"
         android:visibility="gone" />
 
     <include
@@ -72,10 +76,8 @@
         android:id="@+id/include8"
         layout="@layout/shangchuan"
         android:visibility="gone" />
-    <include
-        android:id="@+id/include9"
-        layout="@layout/yao_qing"
-        android:visibility="gone" />
+
+
     <include
         android:id="@+id/include10"
         layout="@layout/guan_yu"

@@ -23,12 +23,13 @@
         <menu>
             <item
                 android:id="@+id/nav_manage"
-                android:icon="@drawable/ww"
-                android:title="我的" />
+                android:icon="@drawable/ww4"
+                android:title="上传/备份" />
+
             <item
                 android:id="@+id/nav_share"
                 android:icon="@drawable/aaa1aaaaa"
-                android:title="社区" />
+                android:title="分享" />
 
             <item
                 android:id="@+id/nav_send"
@@ -42,8 +43,8 @@
         <menu>
             <item
                 android:id="@+id/beifen"
-                android:icon="@drawable/ww4"
-                android:title="上传/备份" />
+                android:icon="@drawable/ww"
+                android:title="我的" />
             <item
                 android:id="@+id/Denglu"
                 android:icon="@drawable/www"

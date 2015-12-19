@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="sdlv-0.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.yydcdut.sdlv/sdlv/0.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.yydcdut.sdlv/sdlv/0.2.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yydcdut.sdlv/sdlv/0.2.1/b4b6bbe99c0a474721972bed41b826711164288b/sdlv-0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

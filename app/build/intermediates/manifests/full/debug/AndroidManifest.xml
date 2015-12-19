@@ -7,6 +7,9 @@
     <uses-sdk
         android:minSdkVersion="15"
         android:targetSdkVersion="23" />
+
+    <!-- 闹钟权限 -->
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
     <!-- 网络权限 -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
@@ -48,6 +51,9 @@
             android:screenOrientation="portrait" />
         <activity
             android:name="qo.shaoyou.free.qo.activity.ZhuCe"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="qo.shaoyou.free.qo.activity.Add_"
             android:screenOrientation="portrait" />
         <activity
             android:name="qo.shaoyou.free.qo.activity.ZhuCe2"

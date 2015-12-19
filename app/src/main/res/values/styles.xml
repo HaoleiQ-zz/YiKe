@@ -15,7 +15,7 @@
 
         <item name="android:gravity">center_vertical</item>
         <!--<item name="android:paddingLeft"></item>-->
-        <item name="android:textSize">10.6sp</item>
+        <item name="android:textSize">6.6dp</item>
         <item name="android:textColor">@android:color/darker_gray</item>
     </style>
 
@@ -26,7 +26,7 @@
 
         <item name="android:gravity">center_vertical</item>
         <!--<item name="android:paddingLeft"></item>-->
-        <item name="android:textSize">7.6sp</item>
+        <item name="android:textSize">3.6dp</item>
     </style>
 
     <style name="AppTheme.NoActionBar">

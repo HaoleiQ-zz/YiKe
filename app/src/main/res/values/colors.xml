@@ -2,17 +2,25 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color><color name="huise">#d7d7d7</color>
-
+    <color name="colorAccent">#FF4081</color>
+    <color name="huise">#d7d7d7</color>
+<color name="nimabi">#FFFFCC</color>
     <color name="bg3">#6e4f20</color>
     <color name="bg2">#2b5252</color>
-    <color name="bg1">#303030</color>
+    <color name="bg1">#acacac</color>
+    <color name="floralwhite">#FFFAF0</color>
+    <color name="gray">#D9D9D9</color>
+    <!-- 暗灰色 -->
+    <color name="dimgrey">#696969</color>
+    <color name="black">#ff000000</color>
+    <color name="grey">#808080</color>
     <color name="beijing1">#e6e6e6</color>
     <color name="topbeijing1">#19cb93</color>
     <color name="topbeijing2">#259b24</color>
     <color name="jiushigan">#FF6666</color>
     <color name="view1">#bbbbbb</color>
-
+    <color name="backgroundColor">#E8E8E0</color>
+    <color name="backgroundColorPress">#DBDBD3</color>
     <color name="green">#8FCC85</color>
     <color name="blue">#ff33b5e5</color>
     <color name="white">#ffffff</color>

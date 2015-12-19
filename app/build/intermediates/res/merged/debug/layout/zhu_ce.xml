@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/bg1"
+    android:background="#333366"
     android:focusable="true"
     android:focusableInTouchMode="true"
     android:orientation="vertical"
@@ -141,7 +141,7 @@
             <View
                 android:layout_width="wrap_content"
                 android:layout_height="1dp"
-                android:background="#6e4f20" />
+                android:background="@color/bg1" />
 
             <ImageView
                 android:id="@+id/imageView2"
@@ -182,7 +182,7 @@
             android:layout_height="1dp"
             android:layout_alignParentLeft="true"
             android:layout_below="@+id/relativeLayout2"
-            android:background="#6e4f20" />
+            android:background="@color/bg1" />
 
         <EditText
             android:id="@+id/EditText01"
@@ -203,7 +203,7 @@
         <View
             android:layout_width="wrap_content"
             android:layout_height="1dp"
-            android:background="#6e4f20" />
+            android:background="@color/bg1" />
 
         <View
             android:id="@+id/View01"
@@ -211,7 +211,7 @@
             android:layout_height="1dp"
             android:layout_alignBottom="@+id/EditText01"
             android:layout_alignParentLeft="true"
-            android:background="#6e4f20" />
+            android:background="@color/bg1" />
 
         <ImageView
             android:id="@+id/ImageView02"
@@ -272,5 +272,15 @@
             android:layout_marginTop="20dp"
             android:src="@drawable/ww4" />
     </RelativeLayout>
-
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/wocao1"
+        android:text="隐私政策"
+        android:textColor="#999999"
+        android:textSize="14sp" />
 </RelativeLayout>

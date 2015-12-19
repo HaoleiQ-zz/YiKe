@@ -1,15 +1,27 @@
 [
     {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\orange.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_ptr_flip.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\default_ptr_flip.png"
+    },
+    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ww.png",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\ww.png"
     },
     {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaaaww.png",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\aaaaww.png"
-    },
-    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a3.png",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\a3.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e501.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\e501.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaaaww.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\aaaaww.png"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
@@ -18,6 +30,10 @@
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_arrow.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\indicator_arrow.png"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aww.png",
@@ -32,8 +48,16 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c501.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\c501.png"
+    },
+    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_love_pressed.png",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\ic_tab_love_pressed.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaa1aaaaa.png",
@@ -42,6 +66,14 @@
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xiazaixiazai.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\xiazaixiazai.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\pressed.png"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
@@ -56,6 +88,10 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tian.PNG",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\tian.PNG"
+    },
+    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaww.png",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\aaww.png"
     },
@@ -64,12 +100,36 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\www1.png"
     },
     {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_icon_normal.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\delete_icon_normal.png"
+    },
+    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_x_circle_white.png",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\ic_x_circle_white.png"
     },
     {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d50.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\d50.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_ptr_rotate.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wni.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\wni.xml"
+    },
+    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ww3.png",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\ww3.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_list_item_bg.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\delete_list_item_bg.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xiazai.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\xiazai.png"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
@@ -80,12 +140,16 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yun.PNG",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\yun.PNG"
+    },
+    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yuangongdenglu3.png",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\yuangongdenglu3.png"
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange3.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\orange3.png"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
@@ -108,12 +172,28 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xlistview_arrow.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\xlistview_arrow.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style4.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\button_style4.xml"
+    },
+    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style7.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\button_style7.xml"
+    },
+    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style1.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\button_style1.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d501.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\d501.png"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
@@ -128,8 +208,36 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\login_down.png"
     },
     {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange2.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\orange2.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style6_2.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\button_style6_2.xml"
+    },
+    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_on.png",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\login_on.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_item_point_bg.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\delete_item_point_bg.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_wechat_icon.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\delete_wechat_icon.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trash.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\trash.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a50.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\a50.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b50.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\b50.png"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_down.png",
@@ -140,8 +248,16 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yuangongdenglu2.png",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\yuangongdenglu2.png"
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style2.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\button_style2.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style6.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\button_style6.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_holder_bg.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\delete_holder_bg.xml"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
@@ -150,6 +266,10 @@
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style6_1.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\button_style6_1.xml"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
@@ -164,8 +284,44 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style8.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\button_style8.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e50.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\e50.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c50.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\c50.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style3.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\button_style3.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style5.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\button_style5.xml"
+    },
+    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_selector.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xiazai2.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\xiazai2.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_style0.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\button_style0.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaaaww1.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\aaaaww1.png"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ww1.png",
@@ -174,6 +330,10 @@
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ww4.png",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\ww4.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\indicator_bg_top.xml"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
@@ -190,5 +350,9 @@
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wocao1.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\wocao1.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xiazai22.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\xiazai22.png"
     }
 ]

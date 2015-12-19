@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="qo.shaoyou.free.qo">
+
+
+    <!-- 闹钟权限-->
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM"/>
     <!-- 网络权限 -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
@@ -43,6 +47,9 @@
             android:screenOrientation="portrait"></activity>
         <activity
             android:name=".activity.ZhuCe"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".activity.Add_"
             android:screenOrientation="portrait"></activity>
         <activity
             android:name=".activity.ZhuCe2"

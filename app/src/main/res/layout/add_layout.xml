@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout5"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#e8e8e0"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="新增计划"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@android:color/black"
+            android:textSize="16dp" />
+
+        <Button
+            android:id="@+id/add_quxiao"
+            android:layout_width="60dp"
+            android:layout_height="35dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignTop="@+id/add_ok"
+            android:background="@drawable/button_style6_1"
+            android:text="取消"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/add_ok"
+            android:layout_width="60dp"
+            android:layout_height="35dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/button_style6_2"
+            android:text="确定"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/relativeLayout5">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/relativeLayout5"
+            android:layout_centerHorizontal="true">
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="9dp"
+                android:paddingLeft="9dp"
+                android:paddingRight="9dp">
+
+                <EditText
+                    android:id="@+id/editText2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_alignParentEnd="true"
+
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentStart="true"
+                    android:background="@drawable/wni"
+                    android:gravity="center"
+                    android:hint="请输入计划标题"
+                    android:paddingLeft="6dp"
+                    android:paddingRight="6dp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/relativeLayout6">
+
+                <EditText
+                    android:id="@+id/editText3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_margin="9dp"
+                    android:background="@drawable/wni"
+                    android:gravity="left|top"
+                    android:hint="请输入内容...\n\n\n\n\n\n"
+                    android:padding="5dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/relativeLayout7">
+
+                <TextView
+                    android:id="@+id/textView15"
+                    android:layout_width="300dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentTop="true"
+
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/wni"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:text="请选择开始时间:"
+                    android:textSize="15sp" />
+
+                <TextView
+
+                    android:id="@+id/textView16"
+                    android:layout_width="300dp"
+                    android:layout_height="40dp"
+                    android:layout_alignLeft="@+id/textView15"
+                    android:layout_alignStart="@+id/textView15"
+                    android:layout_below="@+id/textView15"
+                    android:layout_marginTop="6dp"
+                    android:background="@drawable/wni"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:text="请选择结束时间:"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rele9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/relativeLayout8"
+                android:layout_marginTop="9dp"
+                android:visibility="visible">
+
+
+                <EditText
+                    android:id="@+id/textView17"
+                    android:layout_width="300dp"
+                    android:layout_height="40dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/wni"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:hint="请输入预计天数:"
+                    android:inputType="number"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/textView18"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/textView17"
+                    android:layout_alignStart="@+id/textView17"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="32dp"
+                    android:layout_marginStart="32dp"
+                    android:text="预计天数:"
+                    android:textColor="@android:color/darker_gray" />
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/rele10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/rele9"
+                android:layout_marginTop="7dp">
+
+                <EditText
+
+                    android:id="@+id/textView199"
+                    android:layout_width="300dp"
+                    android:layout_height="40dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/wni"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:hint="请输入地点:"
+
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout9"
+                android:layout_width="300dp"
+                android:layout_height="40dp"
+                android:layout_below="@+id/rele10"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="7dp"
+                android:background="@drawable/wni"
+                android:clickable="true"
+                android:visibility="visible">
+
+
+                <EditText
+                    android:id="@+id/editText5"
+                    android:layout_width="300dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="9dp"
+                    android:background="@drawable/wni"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:hint="计划星级"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:textSize="15sp"
+                    android:visibility="invisible" />
+
+                <RelativeLayout
+                    android:id="@+id/rele11"
+                    android:layout_width="300dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentLeft="true"
+
+                    android:layout_marginTop="19dp"
+                    android:background="@drawable/wni"
+                    android:clickable="true">
+
+
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/editText4"
+                    android:layout_width="300dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/wni"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:hint="显示更多"
+                    android:inputType="number"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/textView19"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="52dp"
+                    android:layout_marginStart="52dp"
+                    android:text="进度："
+                    android:visibility="invisible" />
+
+                <Switch
+                    android:id="@+id/switch3"
+
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/editText4"
+                    android:layout_alignBottom="@+id/editText4"
+                    android:layout_toEndOf="@+id/textView19"
+                    android:layout_toRightOf="@+id/textView19"
+                    android:checked="false"
+                    android:textOff="进行中"
+                    android:textOn="完成"
+                    android:visibility="invisible" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/relativeLayout9"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="7dp">
+
+                <TextView
+                    android:id="@+id/fenxiang_editText6"
+                    android:layout_width="300dp"
+                    android:layout_height="40dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/wni"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:hint="分享此计划"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

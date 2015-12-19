@@ -9,16 +9,87 @@
     tools:context=".activity.Main"
     tools:showIn="@layout/app_bar_main">
 
-    <ImageView
-        android:id="@+id/imageView"
+    <!--<ListView-->
+    <!--android:id="@+id/listview_1"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:padding="10dp"-->
+
+
+    <!--></ListView>-->
+    <qo.shaoyou.free.qo.ohter.ListViewCompat
+        android:id="@+id/list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@mipmap/tixing" />
+        android:layout_marginBottom="46dp"
+        android:background="#e8e8e0"
+
+ ></qo.shaoyou.free.qo.ohter.ListViewCompat>
+    <!--android:cacheColorHint="#00000000"-->
+    <!--<ImageView-->
+    <!--android:id="@+id/imageView"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:src="@mipmap/tixing" />-->
 
     <!--<com.yydcdut.sdlv.SlideAndDragListView-->
     <!--android:layout_width="fill_parent"-->
     <!--android:layout_height="fill_parent">-->
     <!--</com.yydcdut.sdlv.SlideAndDragListView>-->
 
+    <ImageView
+        android:id="@+id/add"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
 
+        android:clickable="true"
+        android:paddingBottom="9dp"
+        android:src="@drawable/button_style2" />
+
+    <ImageView
+        android:id="@+id/shanchu"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:clickable="true"
+        android:paddingBottom="9dp"
+        android:src="@drawable/button_style3"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/shanchuzhende"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:layout_marginLeft="16dp"
+        android:layout_toEndOf="@+id/add"
+        android:layout_toRightOf="@+id/add"
+        android:clickable="true"
+        android:paddingBottom="9dp"
+        android:src="@drawable/button_style4"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/quxiao"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="20dp"
+        android:layout_toLeftOf="@+id/add"
+
+        android:layout_toStartOf="@+id/add"
+        android:clickable="true"
+        android:paddingBottom="9dp"
+        android:src="@drawable/button_style5"
+        android:visibility="invisible" />
 </RelativeLayout>

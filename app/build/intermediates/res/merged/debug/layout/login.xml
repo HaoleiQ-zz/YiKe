@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/bg1"
+    android:background="#333366"
     android:focusable="true"
     android:focusableInTouchMode="true"
     android:orientation="vertical"
@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="143dp"
         android:layout_weight="0.54"
-        android:background="@color/bg1"
+        android:background="#333366"
         android:focusable="true"
         android:focusableInTouchMode="true"
         android:orientation="vertical">
@@ -47,7 +47,7 @@
             <View
                 android:layout_width="wrap_content"
                 android:layout_height="1dp"
-                android:background="#6e4f20" />
+                android:background="@color/bg1" />
 
             <EditText
                 android:id="@+id/yonghuming"
@@ -127,7 +127,7 @@
             <View
                 android:layout_width="wrap_content"
                 android:layout_height="1dp"
-                android:background="#6e4f20" />
+                android:background="@color/bg1" />
 
             <ImageView
                 android:id="@+id/imageView2"
@@ -180,7 +180,7 @@
             android:layout_height="1dp"
             android:layout_alignParentLeft="true"
             android:layout_below="@+id/relativeLayout2"
-            android:background="#6e4f20" />
+            android:background="@color/bg1" />
 
         <TextView
             android:id="@+id/textView3"
@@ -210,28 +210,28 @@
             android:id="@+id/login"
             android:layout_width="108dp"
             android:layout_height="42dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/button"
             android:background="@drawable/button_style1"
             android:text="登 录"
             android:textColor="#acacac"
             android:textSize="18sp"
-            android:visibility="visible"
-            android:layout_alignTop="@+id/button"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentEnd="true" />
+            android:visibility="visible" />
 
         <Button
             android:id="@+id/button"
             android:layout_width="108dp"
             android:layout_height="42dp"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/Button01"
+            android:layout_toRightOf="@+id/Button01"
             android:background="@drawable/button_style1"
             android:text="注 册"
+
             android:textColor="#acacac"
             android:textSize="18sp"
-            android:visibility="visible"
-
-            android:layout_centerVertical="true"
-            android:layout_toRightOf="@+id/Button01"
-            android:layout_toEndOf="@+id/Button01" />
+            android:visibility="visible" />
     </RelativeLayout>
 
     <TextView
@@ -242,7 +242,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="28dp"
         android:background="@drawable/wocao1"
-        android:text="刚来 一刻 ?快来加入我们吧~"
+        android:text="免费注册'一刻'帐号"
         android:textColor="#999999"
         android:textSize="14sp" />
 

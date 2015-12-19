@@ -8,6 +8,11 @@
         android:title="邀请"
         app:showAsAction="never" />
     <item
+        android:id="@+id/jianyi"
+        android:orderInCategory="100"
+        android:title="建议"
+        app:showAsAction="never" />
+    <item
         android:id="@+id/about"
         android:orderInCategory="100"
         android:title="关于"
