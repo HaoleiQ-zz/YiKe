@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="55dp"
+
+    android:padding="15sp">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"></ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="我的计划:"
+            android:id="@+id/textView20"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="总计划数:"
+            android:id="@+id/textView21"
+            android:layout_below="@+id/textView20"
+            android:layout_alignLeft="@+id/textView20"
+            android:layout_alignStart="@+id/textView20" />
+
+        <TextView  android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="37"
+            android:id="@+id/textView22"
+            android:layout_alignTop="@+id/textView21"
+            android:layout_toRightOf="@+id/textView20"
+            android:layout_toEndOf="@+id/textView20" />
+
+        <TextView  android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="条"
+            android:id="@+id/textView23"
+            android:layout_below="@+id/textView20"
+            android:layout_toRightOf="@+id/textView22"
+            android:layout_toEndOf="@+id/textView22" />
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="我的日志:"
+            android:id="@+id/textView24"
+            android:layout_below="@+id/textView46"
+            android:layout_toLeftOf="@+id/textView26"
+            android:layout_toStartOf="@+id/textView26" />
+
+        <TextView  android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="总日志数:"
+            android:id="@+id/textView25"
+            android:layout_below="@+id/textView24"
+            android:layout_alignLeft="@+id/textView24"
+            android:layout_alignStart="@+id/textView24" />
+
+        <TextView  android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="5"
+            android:id="@+id/textView26"
+            android:layout_below="@+id/textView24"
+            android:layout_alignLeft="@+id/textView31"
+            android:layout_alignStart="@+id/textView31" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="完成计划:"  android:visibility="invisible"
+            android:id="@+id/textView27"
+            android:layout_below="@+id/textView21"
+            android:layout_alignLeft="@+id/textView21"
+            android:layout_alignStart="@+id/textView21" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="条"
+            android:id="@+id/textView28"
+            android:layout_below="@+id/textView23"
+            android:layout_alignLeft="@+id/textView23"
+            android:layout_alignStart="@+id/textView23" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="17"  android:visibility="invisible"
+            android:id="@+id/textView29"
+            android:layout_alignBaseline="@+id/textView27"
+            android:layout_alignBottom="@+id/textView27"
+            android:layout_toRightOf="@+id/textView20"
+            android:layout_toEndOf="@+id/textView20" />
+
+        <TextView
+            android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="条"
+            android:id="@+id/textView30"
+            android:layout_below="@+id/textView28"
+            android:layout_alignLeft="@+id/textView28"
+            android:layout_alignStart="@+id/textView28" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="20"  android:visibility="invisible"
+            android:id="@+id/textView31"
+            android:layout_alignBaseline="@+id/textView30"
+            android:layout_alignBottom="@+id/textView30"
+            android:layout_toRightOf="@+id/textView20"
+            android:layout_toEndOf="@+id/textView20" />
+
+        <TextView  android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="进行计划:"
+            android:id="@+id/textView32"
+            android:layout_alignBaseline="@+id/textView31"
+            android:layout_alignBottom="@+id/textView31"
+            android:layout_alignLeft="@+id/textView27"
+            android:layout_alignStart="@+id/textView27" />
+
+        <TextView  android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="条"
+            android:id="@+id/textView33"
+            android:layout_alignTop="@+id/textView26"
+            android:layout_toRightOf="@+id/textView36"
+            android:layout_toEndOf="@+id/textView36" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="我的提醒:"
+            android:id="@+id/textView34"
+            android:layout_marginTop="50dp"
+            android:layout_below="@+id/textView25"
+            android:layout_alignRight="@+id/textView24"
+            android:layout_alignEnd="@+id/textView24" />
+
+        <TextView android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="总提醒数:"
+            android:id="@+id/textView35"
+            android:layout_below="@+id/textView34"
+            android:layout_alignLeft="@+id/textView34"
+            android:layout_alignStart="@+id/textView34" />
+
+        <TextView android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="16"
+            android:id="@+id/textView36"
+            android:layout_below="@+id/textView34"
+            android:layout_toLeftOf="@+id/textView30"
+            android:layout_toStartOf="@+id/textView30" />
+
+        <TextView android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="条"
+            android:id="@+id/textView37"
+            android:layout_alignTop="@+id/textView36"
+            android:layout_alignLeft="@+id/textView30"
+            android:layout_alignStart="@+id/textView30" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="我的分享:"
+            android:id="@+id/textView38"
+            android:layout_marginTop="44dp"
+            android:layout_below="@+id/textView35"
+            android:layout_alignLeft="@+id/textView34"
+            android:layout_alignStart="@+id/textView34" />
+
+        <TextView  android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="总共分享:"
+            android:id="@+id/textView39"
+            android:layout_below="@+id/textView38"
+            android:layout_alignLeft="@+id/textView34" />
+
+        <TextView android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="2"
+            android:id="@+id/textView40"
+            android:layout_alignTop="@+id/textView39"
+            android:layout_toRightOf="@+id/textView38"
+            android:layout_toEndOf="@+id/textView38" />
+
+        <TextView android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="次"
+            android:id="@+id/textView41"
+            android:layout_alignTop="@+id/textView40"
+            android:layout_toRightOf="@+id/textView36"
+            android:layout_toEndOf="@+id/textView36" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="我的邀请:"
+            android:id="@+id/textView42"
+            android:layout_marginTop="50dp"
+            android:layout_below="@+id/textView39"
+            android:layout_alignLeft="@+id/textView39" />
+
+        <TextView
+            android:layout_marginTop="4dp"
+
+            android:id="@+id/fenxiang_editText6"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:background="@drawable/wni"
+            android:clickable="true"
+            android:gravity="center"
+            android:hint="分享此计划"
+            android:textSize="15sp"
+            android:layout_above="@+id/textView30"
+            android:layout_centerHorizontal="true"
+            android:text="总计划: 21 条" />
+
+        <TextView
+            android:layout_marginTop="7dp"
+            android:id="@+id/textView46"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:background="@drawable/wni"
+            android:clickable="true"
+            android:gravity="center"
+            android:hint="分享此计划"
+            android:textSize="15sp"
+            android:text="完成计划: 1 条"
+            android:layout_below="@+id/textView27"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_marginTop="7dp"
+            android:id="@+id/textView47"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:background="@drawable/wni"
+            android:clickable="true"
+            android:gravity="center"
+            android:hint="分享此计划"
+            android:textSize="15sp"
+            android:text="日志: 3 条"
+            android:layout_below="@+id/textView24"
+            android:layout_centerHorizontal="true" />
+
+        <TextView      android:layout_marginTop="7dp"
+            android:id="@+id/textView48"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:background="@drawable/wni"
+            android:clickable="true"
+            android:gravity="center"
+            android:hint="分享此计划"
+            android:textSize="15sp"
+            android:text="提醒次数: 1 次"
+            android:layout_alignTop="@+id/textView35"
+            android:layout_centerHorizontal="true" />
+
+        <TextView      android:layout_marginTop="7dp"
+            android:id="@+id/textView43"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:background="@drawable/wni"
+            android:clickable="true"
+            android:gravity="center"
+            android:hint="分享此计划"
+            android:textSize="15sp"
+            android:text="分享次数: 15 次"
+            android:layout_below="@+id/textView38"
+            android:layout_centerHorizontal="true" />
+
+        <TextView      android:layout_marginTop="7dp"
+            android:id="@+id/textView44"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:background="@drawable/wni"
+            android:clickable="true"
+            android:gravity="center"
+            android:hint="分享此计划"
+            android:textSize="15sp"
+            android:text="邀请次数: 31 次"
+            android:layout_below="@+id/textView42"
+            android:layout_alignLeft="@+id/textView43"
+            android:layout_alignStart="@+id/textView43" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
