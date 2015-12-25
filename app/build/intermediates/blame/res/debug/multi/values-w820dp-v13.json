@@ -7,9 +7,51 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endLine": 76,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\values-w820dp\\arrays.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endLine": 24,
+                        "endColumn": 19,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\values-w820dp\\arrays.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1047,
+                        "endLine": 29,
+                        "endColumn": 19,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endLine": 86,
                     "endColumn": 24,
-                    "endOffset": 3567
+                    "endOffset": 3994
                 },
                 "from": {
                     "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\values-w820dp\\attrs.xml",
@@ -25,12 +67,12 @@
             },
             {
                 "to": {
-                    "startLine": 77,
+                    "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 3572,
-                    "endLine": 88,
+                    "startOffset": 3999,
+                    "endLine": 98,
                     "endColumn": 24,
-                    "endOffset": 4021
+                    "endOffset": 4448
                 },
                 "from": {
                     "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\values-w820dp\\attrs.xml",
@@ -46,11 +88,11 @@
             },
             {
                 "to": {
-                    "startLine": 89,
+                    "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 4026,
+                    "startOffset": 4453,
                     "endColumn": 57,
-                    "endOffset": 4079
+                    "endOffset": 4506
                 },
                 "from": {
                     "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\values-w820dp\\dimens.xml",

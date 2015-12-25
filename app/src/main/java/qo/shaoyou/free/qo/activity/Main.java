@@ -1033,9 +1033,9 @@ public class Main extends AppCompatActivity
         return maplist;
     }
 
-    private String getZongDate() {
+    private String getZongDate(int a) {
         int data_int = 1;
-        String data_1 = "data" + data_int;
+        String data_1 = "data" + a;
 
         SharedPreferences s_data1 = getSharedPreferences(data_1, MODE_PRIVATE);
 
@@ -1056,8 +1056,8 @@ public class Main extends AppCompatActivity
                 item.iconRes = R.drawable.delete_wechat_icon;
                 //只显示msg
                 item.msg = "★欢迎使用《一刻》";
-                if (!getZongDate().equals("")) {
-                    item.msg = getZongDate();
+                if (!getZongDate(0).equals("")) {
+                    item.msg = getZongDate(0);
 
                 }
                 item.time = "《一刻》在这里等你很久啦";

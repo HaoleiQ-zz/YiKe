@@ -7,379 +7,252 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 95,
-                    "endOffset": 146
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 160
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 233,
-                        "endColumn": 95,
-                        "endOffset": 324
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 151,
-                    "endColumn": 106,
-                    "endOffset": 253
-                },
-                "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 329,
-                        "endColumn": 106,
-                        "endOffset": 431
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 258,
-                    "endColumn": 122,
-                    "endOffset": 376
-                },
-                "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 436,
-                        "endColumn": 122,
-                        "endOffset": 554
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 381,
-                    "endColumn": 94,
-                    "endOffset": 471
-                },
-                "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 559,
-                        "endColumn": 94,
-                        "endOffset": 649
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\values-zh-rCN\\arrays.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 476,
-                    "endColumn": 99,
-                    "endOffset": 571
+                    "startOffset": 165,
+                    "endColumn": 95,
+                    "endOffset": 256
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 654,
-                        "endColumn": 99,
-                        "endOffset": 749
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 576,
-                    "endColumn": 81,
-                    "endOffset": 653
+                    "startOffset": 261,
+                    "endColumn": 106,
+                    "endOffset": 363
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 754,
-                        "endColumn": 81,
-                        "endOffset": 831
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 658,
-                    "endColumn": 96,
-                    "endOffset": 750
+                    "startOffset": 368,
+                    "endColumn": 122,
+                    "endOffset": 486
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 836,
-                        "endColumn": 96,
-                        "endOffset": 928
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 755,
-                    "endColumn": 105,
-                    "endOffset": 856
+                    "startOffset": 491,
+                    "endColumn": 94,
+                    "endOffset": 581
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 933,
-                        "endColumn": 105,
-                        "endOffset": 1034
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 861,
-                    "endColumn": 75,
-                    "endOffset": 932
+                    "startOffset": 586,
+                    "endColumn": 99,
+                    "endOffset": 681
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1039,
-                        "endColumn": 75,
-                        "endOffset": 1110
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 937,
-                    "endColumn": 75,
-                    "endOffset": 1008
+                    "startOffset": 686,
+                    "endColumn": 81,
+                    "endOffset": 763
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1115,
-                        "endColumn": 75,
-                        "endOffset": 1186
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1013,
-                    "endColumn": 77,
-                    "endOffset": 1086
+                    "startOffset": 768,
+                    "endColumn": 96,
+                    "endOffset": 860
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1191,
-                        "endColumn": 77,
-                        "endOffset": 1264
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1091,
-                    "endColumn": 95,
-                    "endOffset": 1182
+                    "startOffset": 865,
+                    "endColumn": 105,
+                    "endOffset": 966
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1269,
-                        "endColumn": 95,
-                        "endOffset": 1360
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1187,
-                    "endColumn": 95,
-                    "endOffset": 1278
+                    "startOffset": 971,
+                    "endColumn": 75,
+                    "endOffset": 1042
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1365,
-                        "endColumn": 95,
-                        "endOffset": 1456
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1283,
-                    "endColumn": 94,
-                    "endOffset": 1373
+                    "startOffset": 1047,
+                    "endColumn": 75,
+                    "endOffset": 1118
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1461,
-                        "endColumn": 94,
-                        "endOffset": 1551
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1378,
-                    "endColumn": 96,
-                    "endOffset": 1470
+                    "startOffset": 1123,
+                    "endColumn": 77,
+                    "endOffset": 1196
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1556,
-                        "endColumn": 96,
-                        "endOffset": 1648
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1475,
-                    "endColumn": 94,
-                    "endOffset": 1565
+                    "startOffset": 1201,
+                    "endColumn": 95,
+                    "endOffset": 1292
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1653,
-                        "endColumn": 94,
-                        "endOffset": 1743
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1570,
-                    "endColumn": 97,
-                    "endOffset": 1663
+                    "startOffset": 1297,
+                    "endColumn": 95,
+                    "endOffset": 1388
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1748,
-                        "endColumn": 97,
-                        "endOffset": 1841
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1668,
-                    "endColumn": 111,
-                    "endOffset": 1775
+                    "startOffset": 1393,
+                    "endColumn": 94,
+                    "endOffset": 1483
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1846,
-                        "endColumn": 111,
-                        "endOffset": 1953
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1780,
-                    "endColumn": 93,
-                    "endOffset": 1869
+                    "startOffset": 1488,
+                    "endColumn": 96,
+                    "endOffset": 1580
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1958,
-                        "endColumn": 93,
-                        "endOffset": 2047
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1874,
-                    "endColumn": 100,
-                    "endOffset": 1970
+                    "startOffset": 1585,
+                    "endColumn": 94,
+                    "endOffset": 1675
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2052,
-                        "endColumn": 100,
-                        "endOffset": 2148
-                    }
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1680,
+                    "endColumn": 97,
+                    "endOffset": 1773
+                },
+                "from": {
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1778,
+                    "endColumn": 111,
+                    "endOffset": 1885
+                },
+                "from": {
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1890,
+                    "endColumn": 93,
+                    "endOffset": 1979
+                },
+                "from": {
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1984,
+                    "endColumn": 100,
+                    "endOffset": 2080
+                },
+                "from": {
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rCN\\values-zh-rCN.xml"
                 }
             }
         ]

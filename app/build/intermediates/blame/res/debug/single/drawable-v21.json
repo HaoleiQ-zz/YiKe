@@ -1,15 +1,255 @@
 [
     {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\widget_2x_white.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\widget_2x_white.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\clock.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\clock.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\edit_title_white.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\edit_title_white.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_green_up.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_green_up.9.png"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\edit_yellow.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\edit_yellow.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\widget_2x_green.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\widget_2x_green.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_yellow_single.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_yellow_single.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\font_size_selector_bg.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\font_size_selector_bg.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_blue_middle.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_blue_middle.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\widget_4x_green.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\widget_4x_green.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_white_middle.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_white_middle.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\edit_green.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\edit_green.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\font_super.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\font_super.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\menu_move.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\menu_move.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\new_note_pressed.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\new_note_pressed.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\note_edit_color_selector_panel.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\note_edit_color_selector_panel.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_green_single.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_green_single.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\menu_delete.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\menu_delete.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bg_color_btn_mask.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\bg_color_btn_mask.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\widget_4x_white.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\widget_4x_white.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\edit_blue.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\edit_blue.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\widget_2x_blue.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\widget_2x_blue.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_yellow_middle.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_yellow_middle.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\widget_2x_red.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\widget_2x_red.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\new_note.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\new_note.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\edit_red.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\edit_red.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bg_btn_set_color.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\bg_btn_set_color.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_red_up.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_red_up.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\edit_title_red.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\edit_title_red.9.png"
+    },
+    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_blue_up.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_blue_up.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\edit_title_yellow.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\edit_title_yellow.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\notification.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\edit_title_green.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\edit_title_green.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_red_middle.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_red_middle.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_blue_single.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_blue_single.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\widget_4x_yellow.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\widget_4x_yellow.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\widget_2x_yellow.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\widget_2x_yellow.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_green_down.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_green_down.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\dropdown_icon.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\dropdown_icon.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_white_down.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_white_down.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\edit_white.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\edit_white.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_red_down.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_red_down.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\new_note_normal.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\new_note_normal.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\title_bar_bg.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\title_bar_bg.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\title_alert.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\title_alert.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\font_normal.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\font_normal.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\delete.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\delete.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_yellow_up.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_yellow_up.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\font_small.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\font_small.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\search_result.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\search_result.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\icon_app.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\icon_app.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_green_middle.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_green_middle.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_background.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_background.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\call_record.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\call_record.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_footer_bg.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_footer_bg.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_red_single.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_red_single.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\edit_title_blue.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\edit_title_blue.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_white_single.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_white_single.9.png"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
@@ -20,15 +260,39 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
     },
     {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\font_large.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\font_large.png"
     },
     {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\widget_4x_red.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\widget_4x_red.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\selected.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\selected.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_blue_down.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_blue_down.9.png"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\widget_4x_blue.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\widget_4x_blue.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_folder.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_folder.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_yellow_down.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_yellow_down.9.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\list_white_up.9.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable-v21\\list_white_up.9.png"
     }
 ]

@@ -1,10 +1,38 @@
 [
     {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sub_folder.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\menu\\sub_folder.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\call_note_edit.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\menu\\call_note_edit.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_list.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\menu\\note_list.xml"
+    },
+    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_list_options.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\menu\\note_list_options.xml"
+    },
+    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_edit.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\menu\\note_edit.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\call_record_folder.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\menu\\call_record_folder.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\note_list_dropdown.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\menu\\note_list_dropdown.xml"
     }
 ]

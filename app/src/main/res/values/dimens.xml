@@ -13,4 +13,10 @@
     <dimen name="header_footer_left_right_padding">24dp</dimen>
     <dimen name="header_footer_top_bottom_padding">12dp</dimen>
 
+    <dimen name="text_font_size_super">33sp</dimen>
+    <dimen name="text_font_size_large">26sp</dimen>
+    <dimen name="text_font_size_medium">20sp</dimen>
+    <dimen name="text_font_size_normal">17sp</dimen>
+    <dimen name="text_font_size_small">14sp</dimen>
+
 </resources>

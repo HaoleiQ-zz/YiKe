@@ -10,7 +10,7 @@
     <color name="bg1">#acacac</color>
     <color name="floralwhite">#FFFAF0</color>
     <color name="gray">#D9D9D9</color>
-    <!-- 暗灰色 -->
+    <!-- 暗灰色 -->    <color name="user_query_highlight">#335b5b5b</color>
     <color name="dimgrey">#696969</color>
     <color name="black">#ff000000</color>
     <color name="grey">#808080</color>
