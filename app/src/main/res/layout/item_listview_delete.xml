@@ -3,11 +3,13 @@
     android:layout_width="match_parent"
     android:layout_height="60dp"
     android:layout_marginBottom="45dp"
+
     android:gravity="center"
     android:paddingBottom="10dp"
     android:paddingTop="6dp">
 
     <RelativeLayout
+        android:id="@+id/youmaobingss"
         android:layout_width="match_parent"
         android:layout_height="50dp">
 
@@ -41,8 +43,9 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
+            android:clickable="true"
             android:gravity="center"
-            android:text="的事发生大方"
+
             android:textColor="@color/dimgrey"
             android:textSize="18sp" />
 

@@ -1,168 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-android:clickable="true"
-    tools:context=".activity.Main">
+    android:layout_marginTop="55dp"
+    android:background="#ffffff"
+    android:padding="5dp">
 
-    <!--<RelativeLayout-->
 
-        <!--android:id="@+id/relativeLayout"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="380dp"-->
-        <!--android:layout_alignParentEnd="true"-->
-        <!--android:layout_alignParentRight="true"-->
-        <!--android:layout_alignParentTop="true"-->
-        <!--android:layout_marginTop="55dp"-->
-        <!--android:background="#333366"-->
-        <!--android:clickable="true">-->
+    <Button
+        android:layout_marginTop="5dp"
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_style6" android:gravity="center"
+        android:text="步步高打火机，哪里不会点哪里"
+        android:textColor="@android:color/background_light"
+        android:textSize="35sp" />
 
-        <!--<ImageView-->
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_style6"
+        android:gravity="center"
+        android:text="妈妈再也不担心我不会用App啦"
+        android:textColor="@android:color/background_light"
+        android:textSize="35sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="7dp"
+        android:layout_alignParentStart="true" />
 
-            <!--android:id="@+id/imageViewaaaaaa"-->
-            <!--android:layout_width="160dp"-->
-            <!--android:layout_height="160dp"-->
-            <!--android:layout_centerHorizontal="true"-->
-            <!--android:layout_centerVertical="true"-->
-            <!--android:layout_marginBottom="50dp"-->
-            <!--android:clickable="true"-->
-            <!--android:src="@drawable/yun"-->
-
-            <!--/>-->
-
-        <!--<TextView-->
-            <!--android:id="@+id/textView8"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_alignBottom="@+id/progressBar"-->
-            <!--android:layout_centerHorizontal="true"-->
-            <!--android:layout_marginBottom="26dp"-->
-            <!--android:text="数据已同步至最新"-->
-
-            <!--android:textColor="@android:color/white" />-->
-
-        <!--<TextView-->
-            <!--android:id="@+id/textView9"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_above="@+id/imageViewaaaaaa"-->
-            <!--android:layout_centerHorizontal="true"-->
-            <!--android:text="2015.12.27"-->
-
-            <!--android:textColor="@android:color/white" />-->
-
-        <!--<Button-->
-            <!--android:id="@+id/imageView3"-->
-            <!--android:layout_width="40dp"-->
-            <!--android:layout_height="40dp"-->
-            <!--android:layout_above="@+id/textView13"-->
-            <!--android:layout_alignLeft="@+id/textView12"-->
-            <!--android:layout_alignStart="@+id/textView12"-->
-            <!--android:clickable="true"-->
-            <!--android:background="@drawable/button_style7" />-->
-
-        <!--<Button-->
-            <!--android:id="@+id/imageView4"-->
-            <!--android:layout_width="40dp"-->
-            <!--android:layout_height="40dp"-->
-            <!--android:layout_alignTop="@+id/imageView3"-->
-            <!--android:layout_toEndOf="@+id/textView9"-->
-            <!--android:layout_toRightOf="@+id/textView9"-->
-            <!--android:clickable="true"-->
-            <!--android:background="@drawable/button_style8" />-->
-
-        <!--<TextView-->
-            <!--android:id="@+id/textView12"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_alignTop="@+id/textView13"-->
-            <!--android:layout_toLeftOf="@+id/progressBar"-->
-            <!--android:layout_toStartOf="@+id/progressBar"-->
-            <!--android:text="  上传"-->
-            <!--android:textAppearance="?android:attr/textAppearanceSmall"-->
-            <!--android:textColor="@android:color/white" />-->
-
-        <!--<TextView-->
-            <!--android:id="@+id/textView13"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_alignLeft="@+id/imageView4"-->
-            <!--android:layout_alignStart="@+id/imageView4"-->
-            <!--android:layout_below="@+id/imageViewaaaaaa"-->
-            <!--android:layout_marginTop="20dp"-->
-            <!--android:text="  下载"-->
-            <!--android:textAppearance="?android:attr/textAppearanceSmall"-->
-            <!--android:textColor="@android:color/white" />-->
-
-        <!--<ProgressBar-->
-            <!--android:id="@+id/progressBar"-->
-            <!--style="?android:attr/progressBarStyleLarge"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_above="@+id/textView9"-->
-            <!--android:layout_alignEnd="@+id/textView9"-->
-            <!--android:layout_alignRight="@+id/textView9"-->
-
-            <!--android:visibility="invisible" />-->
-
-    <!--</RelativeLayout>-->
-
-    <!--<RelativeLayout-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="match_parent"-->
-        <!--android:layout_alignParentEnd="true"-->
-        <!--android:layout_alignParentRight="true"-->
-        <!--android:layout_below="@+id/relativeLayout">-->
-
-        <!--<TextView-->
-            <!--android:id="@+id/textView10"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_alignBaseline="@+id/switch1"-->
-            <!--android:layout_alignBottom="@+id/switch1"-->
-            <!--android:layout_alignLeft="@+id/textView11"-->
-            <!--android:layout_alignStart="@+id/textView11"-->
-            <!--android:text="开启自动同步"-->
-            <!--android:clickable="true"-->
-            <!--android:textAppearance="?android:attr/textAppearanceSmall"-->
-            <!--android:textSize="16sp" />-->
-
-        <!--<TextView-->
-            <!--android:id="@+id/textView11"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_alignParentLeft="true"-->
-            <!--android:layout_alignParentStart="true"-->
-            <!--android:layout_centerVertical="true"-->
-            <!--android:layout_marginLeft="22dp"-->
-            <!--android:layout_marginStart="22dp"-->
-            <!--android:text="仅Wifi下同步"-->
-            <!--android:textAppearance="?android:attr/textAppearanceSmall"-->
-            <!--android:textSize="16sp" />-->
-
-        <!--<Switch-->
-            <!--android:id="@+id/switch1"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_alignLeft="@+id/switch2"-->
-            <!--android:layout_alignParentTop="true"-->
-            <!--android:layout_alignStart="@+id/switch2"-->
-            <!--android:layout_marginTop="23dp"-->
-            <!--android:checked="false" />-->
-
-        <!--<Switch-->
-
-            <!--android:id="@+id/switch2"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_alignBottom="@+id/textView11"-->
-            <!--android:layout_alignParentEnd="true"-->
-            <!--android:layout_alignParentRight="true"-->
-            <!--android:layout_marginEnd="52dp"-->
-            <!--android:layout_marginRight="52dp"-->
-            <!--android:checked="true" />-->
-
-    <!--</RelativeLayout>-->
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_style6"
+        android:gravity="center"
+        android:text="老司机帮帮我"
+        android:textColor="@android:color/background_light"
+        android:textSize="35sp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>

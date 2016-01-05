@@ -8,9 +8,20 @@
         android:title="邀请"
         app:showAsAction="never" />
     <item
+        android:visible="false"
+        android:id="@+id/shezhi"
+        android:orderInCategory="100"
+        android:title="设置"
+        app:showAsAction="never" />
+    <item
         android:id="@+id/jianyi"
         android:orderInCategory="100"
-        android:title="建议"
+        android:title="反馈/Bug提交"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/help"
+        android:orderInCategory="100"
+        android:title="帮助"
         app:showAsAction="never" />
     <item
         android:id="@+id/about"
@@ -18,23 +29,23 @@
         android:title="关于"
         app:showAsAction="never" />
     <!--<item-->
-        <!--android:id="@+id/set4"-->
-        <!--android:orderInCategory="100"-->
-        <!--android:title="咩咩"-->
-        <!--app:showAsAction="never" />-->
+    <!--android:id="@+id/set4"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="咩咩"-->
+    <!--app:showAsAction="never" />-->
     <!--<item-->
-        <!--android:id="@+id/action_settings2"-->
-        <!--android:orderInCategory="100"-->
-        <!--android:title="咩咩"-->
-        <!--app:showAsAction="never" />-->
+    <!--android:id="@+id/action_settings2"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="咩咩"-->
+    <!--app:showAsAction="never" />-->
     <!--<item-->
-        <!--android:id="@+id/action_settings33"-->
-        <!--android:orderInCategory="100"-->
-        <!--android:title="咩咩"-->
-        <!--app:showAsAction="never" />-->
+    <!--android:id="@+id/action_settings33"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="咩咩"-->
+    <!--app:showAsAction="never" />-->
     <!--<item-->
-        <!--android:id="@+id/action_settings4"-->
-        <!--android:orderInCategory="100"-->
-        <!--android:title="咩咩"-->
-        <!--app:showAsAction="never" />-->
+    <!--android:id="@+id/action_settings4"-->
+    <!--android:orderInCategory="100"-->
+    <!--android:title="咩咩"-->
+    <!--app:showAsAction="never" />-->
 </menu>

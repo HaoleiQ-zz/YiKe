@@ -53,8 +53,12 @@
         <activity
             android:name=".activity.Add_"
             android:screenOrientation="portrait"></activity>
+
         <activity
             android:name=".activity.ZhuCe2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.Add_rizhi"
             android:screenOrientation="portrait" />
     </application>
 

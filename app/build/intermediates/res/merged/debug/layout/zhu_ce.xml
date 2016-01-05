@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#333366"
+    android:background="#ff5722"
     android:focusable="true"
     android:focusableInTouchMode="true"
     android:orientation="vertical"
@@ -18,11 +18,6 @@
         android:focusableInTouchMode="true"
         android:orientation="vertical"></RelativeLayout>
 
-    <RelativeLayout
-        android:id="@+id/relativeLayout4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"></RelativeLayout>
-
     <View
         android:layout_width="wrap_content"
         android:layout_height="1dp"
@@ -33,26 +28,14 @@
         android:layout_height="1dp"
         android:background="#455566" />
 
-    <TextView
-        android:id="@+id/textView1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/relativeLayout3"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="34dp"
-        android:layout_weight="0.54"
-        android:gravity="center"
-        android:text="@string/app_name"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textColor="#acacac"
-        android:textSize="29sp" />
 
     <RelativeLayout
         android:id="@+id/rl"
         android:layout_width="220dp"
         android:layout_height="266dp"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true">
+        android:layout_marginBottom="84dp">
 
         <RelativeLayout
             android:id="@+id/relativeLayout1"
@@ -68,8 +51,8 @@
                 android:gravity="center"
                 android:hint="输用户名"
                 android:singleLine="true"
-                android:textColor="@android:color/darker_gray"
-                android:textColorHint="#999999"
+                android:textColor="#ffffff"
+                android:textColorHint="#e8e8e0"
                 android:textCursorDrawable="@null"
                 android:textSize="15sp">
 
@@ -102,13 +85,6 @@
                 android:src="@drawable/ww"
                 android:visibility="invisible" />
 
-            <ImageView
-                android:id="@+id/imageView1111"
-                android:layout_width="20dp"
-                android:layout_height="25dp"
-                android:layout_alignLeft="@+id/imageView1"
-                android:layout_centerVertical="true"
-                android:src="@drawable/ww" />
         </RelativeLayout>
 
         <RelativeLayout
@@ -133,35 +109,16 @@
                 android:hint="输入密码"
                 android:password="true"
                 android:singleLine="true"
-                android:textColor="@android:color/darker_gray"
-                android:textColorHint="#999999"
+                android:textColor="#ffffff"
+                android:textColorHint="#e8e8e0"
                 android:textCursorDrawable="@null"
                 android:textSize="15sp" />
 
             <View
                 android:layout_width="wrap_content"
                 android:layout_height="1dp"
-                android:background="@color/bg1" />
+                android:background="@color/white" />
 
-            <ImageView
-                android:id="@+id/imageView2"
-                android:layout_width="20dp"
-                android:layout_height="20dp"
-                android:layout_alignParentLeft="true"
-                android:layout_centerVertical="true"
-                android:layout_marginLeft="10dp"
-                android:layout_marginTop="1dp"
-                android:src="@drawable/www" />
-
-            <ImageView
-                android:id="@+id/imageView22"
-                android:layout_width="20dp"
-                android:layout_height="20dp"
-                android:layout_alignLeft="@+id/imageView2"
-                android:layout_alignTop="@+id/imageView2"
-                android:layout_marginTop="12dp"
-                android:src="@drawable/www1"
-                android:visibility="invisible" />
         </RelativeLayout>
 
         <Button
@@ -182,7 +139,7 @@
             android:layout_height="1dp"
             android:layout_alignParentLeft="true"
             android:layout_below="@+id/relativeLayout2"
-            android:background="@color/bg1" />
+            android:background="@color/white" />
 
         <EditText
             android:id="@+id/EditText01"
@@ -195,15 +152,15 @@
             android:hint="重复密码"
             android:password="true"
             android:singleLine="true"
-            android:textColor="@android:color/darker_gray"
-            android:textColorHint="#999999"
+            android:textColor="#ffffff"
+            android:textColorHint="#e8e8e0"
             android:textCursorDrawable="@null"
             android:textSize="15sp" />
 
         <View
             android:layout_width="wrap_content"
             android:layout_height="1dp"
-            android:background="@color/bg1" />
+            android:background="@color/white" />
 
         <View
             android:id="@+id/View01"
@@ -211,17 +168,7 @@
             android:layout_height="1dp"
             android:layout_alignBottom="@+id/EditText01"
             android:layout_alignParentLeft="true"
-            android:background="@color/bg1" />
-
-        <ImageView
-            android:id="@+id/ImageView02"
-            android:layout_width="20dp"
-            android:layout_height="20dp"
-            android:layout_alignLeft="@+id/login"
-            android:layout_alignTop="@+id/EditText01"
-            android:layout_marginLeft="10dp"
-            android:layout_marginTop="12dp"
-            android:src="@drawable/www" />
+            android:background="@color/white" />
 
         <Button
             android:id="@+id/login222"
@@ -231,8 +178,8 @@
             android:layout_below="@+id/EditText01"
             android:layout_marginTop="24dp"
             android:background="@drawable/button_style1"
-            android:text="注 册"
-            android:textColor="#acacac"
+            android:text="加入一刻"
+            android:textColor="#ffffff"
             android:visibility="visible" />
     </RelativeLayout>
 
@@ -241,46 +188,64 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/rl"
         android:layout_alignLeft="@+id/rl"
-        android:layout_below="@+id/textView1"
+
         android:padding="0dp">
 
         <AutoCompleteTextView
             android:id="@+id/yonghuming22"
             android:layout_width="wrap_content"
             android:layout_height="45dp"
-            android:layout_alignParentBottom="true"
             android:background="@drawable/edittext_down"
             android:completionThreshold="@null"
             android:ems="10"
             android:gravity="center"
+
             android:hint="输入邮箱"
             android:selectAllOnFocus="true"
             android:singleLine="true"
-            android:textColor="@android:color/darker_gray"
-            android:textColorHint="#999999"
+            android:textColor="#ffffff"
+            android:textColorHint="#e8e8e0"
             android:textCursorDrawable="@null"
-            android:textSize="15sp" />
-
-        <ImageView
-            android:id="@+id/ImageView01"
-            android:layout_width="20dp"
-            android:layout_height="25dp"
-            android:layout_alignParentBottom="true"
+            android:textSize="15sp"
+            android:layout_below="@+id/relativeLayout4"
             android:layout_alignParentLeft="true"
-            android:layout_marginBottom="10dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginTop="20dp"
-            android:src="@drawable/ww4" />
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="45dp" />
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/ic_launcher"
+
+                android:layout_alignTop="@+id/textView1"
+                android:layout_toLeftOf="@+id/textView1"
+                android:layout_toStartOf="@+id/textView1" />
+            <TextView android:layout_marginTop="49dp"
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.54"
+                android:gravity="center"
+                android:text="@string/app_name"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#ffffff"
+                android:textSize="45sp"
+
+                android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+
+
     </RelativeLayout>
-    <TextView
-        android:id="@+id/TextView01"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/rl"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="28dp"
-        android:background="@drawable/wocao1"
-        android:text="隐私政策"
-        android:textColor="#999999"
-        android:textSize="14sp" />
+
+
 </RelativeLayout>

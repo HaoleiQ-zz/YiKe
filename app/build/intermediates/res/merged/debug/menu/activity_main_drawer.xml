@@ -16,28 +16,15 @@
     <item
         android:id="@+id/nav_slideshow"
         android:icon="@drawable/aaaaww"
-        android:title="日志" />
+        android:title="快捷" />
 
 
-    <item android:title="分享">
-        <menu>
-            <item
-                android:id="@+id/nav_manage"
-                android:icon="@drawable/ww4"
-                android:title="上传/备份" />
+    <item
+        android:id="@+id/nav_send"
+        android:icon="@drawable/a3"
+        android:title="建议"
+        android:visible="false" />
 
-            <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/aaa1aaaaa"
-                android:title="分享" />
-
-            <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/a3"
-                android:title="建议" />
-
-        </menu>
-    </item>
 
     <item android:title="帐号">
         <menu>
@@ -49,7 +36,14 @@
                 android:id="@+id/Denglu"
                 android:icon="@drawable/www"
                 android:title="登录/切换" />
-
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/ww4"
+                android:title="上传/备份" />
+            <item
+                android:id="@+id/zhuti"
+                android:icon="@drawable/aaa1aaaaa"
+                android:title="切换主题" />
         </menu>
     </item>
     <!--</group>-->

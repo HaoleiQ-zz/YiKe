@@ -15,7 +15,7 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
-        android:background="#333366"
+        android:background="#ff5722"
         android:clickable="true">
 
         <ImageView
@@ -116,16 +116,20 @@
         android:layout_height="match_parent"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_below="@+id/relativeLayout">
+        android:layout_below="@+id/relativeLayout"
+        android:background="#ffffff">
 
         <TextView
             android:id="@+id/textView10"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignBaseline="@+id/switch1"
-            android:layout_alignBottom="@+id/switch1"
-            android:layout_alignLeft="@+id/textView11"
-            android:layout_alignStart="@+id/textView11"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView11"
+            android:layout_marginLeft="27dp"
+
+            android:layout_marginStart="27dp"
+            android:layout_marginTop="23dp"
             android:clickable="true"
             android:text="开启自动同步"
             android:textAppearance="?android:attr/textAppearanceSmall"
@@ -135,36 +139,41 @@
             android:id="@+id/textView11"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_centerVertical="true"
-            android:layout_marginLeft="22dp"
-            android:layout_marginStart="22dp"
+            android:layout_alignLeft="@+id/textView10"
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/textView10"
+            android:layout_marginTop="25dp"
             android:text="仅Wifi下同步"
             android:textAppearance="?android:attr/textAppearanceSmall"
             android:textSize="16sp" />
 
-        <Switch
-            android:id="@+id/switch1"
+        <SeekBar
+            android:id="@+id/seekBar"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/textView10"
+            android:layout_toEndOf="@+id/textView10" />
+
+        <CheckBox
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignLeft="@+id/switch2"
-            android:layout_alignParentTop="true"
-            android:layout_alignStart="@+id/switch2"
-            android:layout_marginTop="23dp"
-            android:checked="false" />
-
-        <Switch
-
-            android:id="@+id/switch2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:id="@+id/checkBox"
+            android:checked="false"
+            android:layout_alignBaseline="@+id/textView11"
             android:layout_alignBottom="@+id/textView11"
-            android:layout_alignParentEnd="true"
-            android:layout_alignParentRight="true"
-            android:layout_marginEnd="52dp"
-            android:layout_marginRight="52dp"
-            android:checked="true" />
+            android:layout_toRightOf="@+id/seekBar"
+            android:layout_toEndOf="@+id/seekBar" />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/checkBox2"
+            android:checked="false"
+            android:layout_alignBaseline="@+id/textView10"
+            android:layout_alignBottom="@+id/textView10"
+            android:layout_toRightOf="@+id/seekBar"
+            android:layout_toEndOf="@+id/seekBar" />
 
     </RelativeLayout>
 </RelativeLayout>

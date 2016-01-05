@@ -15,8 +15,8 @@
         android:clickable="false"
         android:gravity="center"
         android:padding="5dp"
-        android:text="@string/load_full"
-        android:visibility="gone" />
+        android:text="已经加载所有"
+        android:visibility="visible" />
 
     <TextView
         android:id="@+id/noData"
@@ -33,12 +33,14 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:padding="5dp"
-        android:text="@string/more" />
+        android:text="@string/more"
+        android:visibility="gone" />
 
     <ProgressBar
         android:id="@+id/loading"
         style="?android:attr/progressBarStyleSmall"
         android:layout_width="20dp"
-        android:layout_height="20dp" />
+        android:layout_height="20dp"
+        android:visibility="gone" />
 
 </LinearLayout>

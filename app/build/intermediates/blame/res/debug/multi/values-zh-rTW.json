@@ -12,7 +12,15 @@
                     "endOffset": 160
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\values-zh-rTW\\arrays.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\values-zh-rTW\\arrays.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 817
+                    }
                 }
             },
             {
@@ -24,7 +32,14 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 94,
+                        "endOffset": 323
+                    }
                 }
             },
             {
@@ -36,7 +51,14 @@
                     "endOffset": 362
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 106,
+                        "endOffset": 430
+                    }
                 }
             },
             {
@@ -48,7 +70,14 @@
                     "endOffset": 485
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 122,
+                        "endOffset": 553
+                    }
                 }
             },
             {
@@ -60,7 +89,14 @@
                     "endOffset": 578
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endColumn": 92,
+                        "endOffset": 646
+                    }
                 }
             },
             {
@@ -72,7 +108,14 @@
                     "endOffset": 678
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 99,
+                        "endOffset": 746
+                    }
                 }
             },
             {
@@ -84,7 +127,14 @@
                     "endOffset": 760
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 81,
+                        "endOffset": 828
+                    }
                 }
             },
             {
@@ -96,7 +146,14 @@
                     "endOffset": 857
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 833,
+                        "endColumn": 96,
+                        "endOffset": 925
+                    }
                 }
             },
             {
@@ -108,7 +165,14 @@
                     "endOffset": 965
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 930,
+                        "endColumn": 107,
+                        "endOffset": 1033
+                    }
                 }
             },
             {
@@ -120,7 +184,14 @@
                     "endOffset": 1041
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endColumn": 75,
+                        "endOffset": 1109
+                    }
                 }
             },
             {
@@ -132,7 +203,14 @@
                     "endOffset": 1117
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1114,
+                        "endColumn": 75,
+                        "endOffset": 1185
+                    }
                 }
             },
             {
@@ -144,7 +222,14 @@
                     "endOffset": 1195
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1190,
+                        "endColumn": 77,
+                        "endOffset": 1263
+                    }
                 }
             },
             {
@@ -156,7 +241,14 @@
                     "endOffset": 1291
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1268,
+                        "endColumn": 95,
+                        "endOffset": 1359
+                    }
                 }
             },
             {
@@ -168,7 +260,14 @@
                     "endOffset": 1387
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1364,
+                        "endColumn": 95,
+                        "endOffset": 1455
+                    }
                 }
             },
             {
@@ -180,7 +279,14 @@
                     "endOffset": 1482
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1460,
+                        "endColumn": 94,
+                        "endOffset": 1550
+                    }
                 }
             },
             {
@@ -192,7 +298,14 @@
                     "endOffset": 1579
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1555,
+                        "endColumn": 96,
+                        "endOffset": 1647
+                    }
                 }
             },
             {
@@ -204,7 +317,14 @@
                     "endOffset": 1674
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1652,
+                        "endColumn": 94,
+                        "endOffset": 1742
+                    }
                 }
             },
             {
@@ -216,7 +336,14 @@
                     "endOffset": 1774
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1747,
+                        "endColumn": 99,
+                        "endOffset": 1842
+                    }
                 }
             },
             {
@@ -228,7 +355,14 @@
                     "endOffset": 1887
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1847,
+                        "endColumn": 112,
+                        "endOffset": 1955
+                    }
                 }
             },
             {
@@ -240,7 +374,14 @@
                     "endOffset": 1981
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1960,
+                        "endColumn": 93,
+                        "endOffset": 2049
+                    }
                 }
             },
             {
@@ -252,7 +393,14 @@
                     "endOffset": 2082
                 },
                 "from": {
-                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml"
+                    "file": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2054,
+                        "endColumn": 100,
+                        "endOffset": 2150
+                    }
                 }
             }
         ]

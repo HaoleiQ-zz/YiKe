@@ -1,17 +1,24 @@
 package qo.shaoyou.free.qo.ohter;
 
 import android.content.Context;
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.graphics.pdf.PdfRenderer;
+import android.os.AsyncTask;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.util.TypedValue;
+import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.Scroller;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import qo.shaoyou.free.qo.R;
+import qo.shaoyou.free.qo.activity.Main;
 
 
 public class SlideView extends LinearLayout {
@@ -23,7 +30,7 @@ public class SlideView extends LinearLayout {
     private RelativeLayout mHolder;
     private Scroller mScroller;
     private OnSlideListener mOnSlideListener;
-
+    public static int Biaoshi = 0;
     private int mHolderWidth = 120;
 
     private int mLastX = 0;
@@ -36,7 +43,7 @@ public class SlideView extends LinearLayout {
         public static final int SLIDE_STATUS_ON = 2;
 
         /**
-         * @param view current SlideView
+         * @param view   current SlideView
          * @param status SLIDE_STATUS_ON or SLIDE_STATUS_OFF
          */
         public void onSlide(View view, int status);
@@ -65,8 +72,8 @@ public class SlideView extends LinearLayout {
     }
 
     public void setButtonText(CharSequence text) {
-        ((TextView)findViewById(R.id.delete)).setText(text);
-        ((TextView)findViewById(R.id.edit)).setText(text);
+        ((TextView) findViewById(R.id.delete)).setText(text);
+        ((TextView) findViewById(R.id.edit)).setText(text);
     }
 
     public void setContentView(View view) {
@@ -80,6 +87,7 @@ public class SlideView extends LinearLayout {
     public void shrink() {
         if (getScrollX() != 0) {
             this.smoothScrollTo(0, 0);
+
         }
     }
 
@@ -90,49 +98,51 @@ public class SlideView extends LinearLayout {
         Log.d(TAG, "x=" + x + "  y=" + y);
 
         switch (event.getAction()) {
-        case MotionEvent.ACTION_DOWN: {
-            if (!mScroller.isFinished()) {
-                mScroller.abortAnimation();
-            }
-            if (mOnSlideListener != null) {
-                mOnSlideListener.onSlide(this,
-                        OnSlideListener.SLIDE_STATUS_START_SCROLL);
-            }
-            break;
-        }
-        case MotionEvent.ACTION_MOVE: {
-            int deltaX = x - mLastX;
-            int deltaY = y - mLastY;
-            if (Math.abs(deltaX) < Math.abs(deltaY) * TAN) {
+            case MotionEvent.ACTION_DOWN: {
+                if (!mScroller.isFinished()) {
+                    mScroller.abortAnimation();
+                }
+                if (mOnSlideListener != null) {
+                    mOnSlideListener.onSlide(this,
+                            OnSlideListener.SLIDE_STATUS_START_SCROLL);
+
+
+                }
                 break;
             }
+            case MotionEvent.ACTION_MOVE: {
+                int deltaX = x - mLastX;
+                int deltaY = y - mLastY;
+                if (Math.abs(deltaX) < Math.abs(deltaY) * TAN) {
+                    break;
+                }
 
-            int newScrollX = scrollX - deltaX;
-            if (deltaX != 0) {
-                if (newScrollX < 0) {
-                    newScrollX = 0;
-                } else if (newScrollX > mHolderWidth) {
+                int newScrollX = scrollX - deltaX;
+                if (deltaX != 0) {
+                    if (newScrollX < 0) {
+                        newScrollX = 0;
+                    } else if (newScrollX > mHolderWidth) {
+                        newScrollX = mHolderWidth;
+                    }
+                    this.scrollTo(newScrollX, 0);
+                }
+                break;
+            }
+            case MotionEvent.ACTION_UP: {
+                int newScrollX = 0;
+                if (scrollX - mHolderWidth * 0.75 > 0) {
                     newScrollX = mHolderWidth;
                 }
-                this.scrollTo(newScrollX, 0);
+                this.smoothScrollTo(newScrollX, 0);
+                if (mOnSlideListener != null) {
+                    mOnSlideListener.onSlide(this,
+                            newScrollX == 0 ? OnSlideListener.SLIDE_STATUS_OFF
+                                    : OnSlideListener.SLIDE_STATUS_ON);
+                }
+                break;
             }
-            break;
-        }
-        case MotionEvent.ACTION_UP: {
-            int newScrollX = 0;
-            if (scrollX - mHolderWidth * 0.75 > 0) {
-                newScrollX = mHolderWidth;
-            }
-            this.smoothScrollTo(newScrollX, 0);
-            if (mOnSlideListener != null) {
-                mOnSlideListener.onSlide(this,
-                        newScrollX == 0 ? OnSlideListener.SLIDE_STATUS_OFF
-                                : OnSlideListener.SLIDE_STATUS_ON);
-            }
-            break;
-        }
-        default:
-            break;
+            default:
+                break;
         }
 
         mLastX = x;
@@ -141,7 +151,7 @@ public class SlideView extends LinearLayout {
 
     private void smoothScrollTo(int destX, int destY) {
         // 缓慢滚动到指定位�?        
-    	int scrollX = getScrollX();
+        int scrollX = getScrollX();
         int delta = destX - scrollX;
         mScroller.startScroll(scrollX, 0, delta, 0, Math.abs(delta) * 3);
         invalidate();
@@ -151,8 +161,16 @@ public class SlideView extends LinearLayout {
     public void computeScroll() {
         if (mScroller.computeScrollOffset()) {
             scrollTo(mScroller.getCurrX(), mScroller.getCurrY());
-            postInvalidate();
+
+//
+//            mViewContent.setLongClickable(false);
+
+           postInvalidate();
+
+//
+//            postInvalidate();
         }
     }
+
 
 }
