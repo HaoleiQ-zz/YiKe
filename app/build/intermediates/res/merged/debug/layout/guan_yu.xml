@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+
     android:background="#ffffff"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context=".activity.Main">
@@ -13,17 +14,47 @@
         android:layout_height="match_parent">
 
 
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="99dp"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_centerVertical="true">
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="@color/green"></View>
-        </RelativeLayout>
     </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true">
+
+
+        <TextView
+            android:id="@+id/textView54"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GitHub项目地址"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#ff5722"
+            android:textSize="25dp"
+            android:layout_marginTop="96dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/textView55"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:text="https://github.com/Harry-Qin/_YiKe"
+            android:layout_below="@+id/textView54"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="41dp" />
+
+        <TextView
+            android:id="@+id/textView57"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="email"
+            android:text="550913732@qq.com"
+            android:layout_below="@+id/textView55"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="53dp" />
+    </RelativeLayout>
+
 </RelativeLayout>

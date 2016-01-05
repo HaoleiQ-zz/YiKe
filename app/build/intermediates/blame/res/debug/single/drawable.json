@@ -80,6 +80,10 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\ww3.png"
     },
     {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_btn_checked.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\toggle_btn_checked.png"
+    },
+    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_list_item_bg.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\delete_list_item_bg.xml"
     },
@@ -134,10 +138,6 @@
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange2.png",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\orange2.png"
-    },
-    {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_smart_notebook.png",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\ic_smart_notebook.png"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_on.png",
@@ -274,6 +274,10 @@
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fenxiang.png",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\fenxiang.png"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_green.png",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\drawable\\ic_share_green.png"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aaww.png",

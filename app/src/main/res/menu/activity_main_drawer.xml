@@ -13,7 +13,7 @@
         android:id="@+id/nav_gallery"
         android:icon="@drawable/aaww"
         android:title="提醒" />
-    <item
+    <item android:visible="false"
         android:id="@+id/nav_slideshow"
         android:icon="@drawable/aaaaww"
         android:title="快捷" />
@@ -31,10 +31,11 @@
             <item
                 android:id="@+id/beifen"
                 android:icon="@drawable/ww"
-                android:title="我的" />
+                android:title="我的"
+                android:visible="false" />
             <item
 
-                
+
                 android:id="@+id/Denglu"
                 android:icon="@drawable/www"
                 android:title="登录/切换" />
@@ -43,10 +44,10 @@
                 android:icon="@drawable/ww4"
                 android:title="上传/备份" />
             <item
-                android:visible="false"
                 android:id="@+id/zhuti"
                 android:icon="@drawable/aaa1aaaaa"
-                android:title="切换主题" />
+                android:title="切换主题"
+                android:visible="false" />
         </menu>
     </item>
     <!--</group>-->
