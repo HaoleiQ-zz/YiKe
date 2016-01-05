@@ -58,6 +58,9 @@
         <activity
             android:name="qo.shaoyou.free.qo.activity.ZhuCe2"
             android:screenOrientation="portrait" />
+        <activity
+            android:name="qo.shaoyou.free.qo.activity.Add_rizhi"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>

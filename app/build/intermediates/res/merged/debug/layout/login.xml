@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#333366"
+    android:background="#ff5722"
     android:focusable="true"
     android:focusableInTouchMode="true"
     android:orientation="vertical"
@@ -11,9 +11,9 @@
     <RelativeLayout
         android:id="@+id/relativeLayout3"
         android:layout_width="match_parent"
-        android:layout_height="143dp"
+        android:layout_height="199dp"
         android:layout_weight="0.54"
-        android:background="#333366"
+        android:background="#ff5722"
         android:focusable="true"
         android:focusableInTouchMode="true"
         android:orientation="vertical">
@@ -22,14 +22,55 @@
             android:id="@+id/textView1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:layout_centerVertical="true"
             android:layout_weight="0.54"
+            android:clickable="true"
             android:gravity="center"
             android:text="@string/app_name"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:textColor="#acacac"
-            android:textSize="29sp" />
+            android:textColor="#ffffff"
+            android:textSize="45sp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:visibility="invisible"
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView7"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:layout_weight="0.54"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="计划,尝试,发现更大的世界和不一样的自己"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffffff"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/textView1"
+            android:layout_alignRight="@+id/textView1"
+            android:layout_below="@+id/textView1"
+            android:layout_weight="0.54"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="YiKe"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffffff"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/textView1"
+            android:layout_toLeftOf="@+id/textView1"
+            android:layout_toStartOf="@+id/textView1"
+            android:src="@mipmap/ic_launcher" />
     </RelativeLayout>
 
     <RelativeLayout
@@ -47,7 +88,7 @@
             <View
                 android:layout_width="wrap_content"
                 android:layout_height="1dp"
-                android:background="@color/bg1" />
+                android:background="@color/white" />
 
             <EditText
                 android:id="@+id/yonghuming"
@@ -59,8 +100,8 @@
                 android:gravity="center"
                 android:hint="帐号/邮箱"
                 android:singleLine="true"
-                android:textColor="@android:color/darker_gray"
-                android:textColorHint="#999999"
+                android:textColor="#ffffff"
+                android:textColorHint="#ffffff"
                 android:textCursorDrawable="@null"
                 android:textSize="15sp" />
 
@@ -119,15 +160,15 @@
                 android:hint="密码"
                 android:password="true"
                 android:singleLine="true"
-                android:textColor="@android:color/darker_gray"
-                android:textColorHint="#999999"
+                android:textColor="#ffffff"
+                android:textColorHint="#ffffff"
                 android:textCursorDrawable="@null"
                 android:textSize="15sp" />
 
             <View
                 android:layout_width="wrap_content"
                 android:layout_height="1dp"
-                android:background="@color/bg1" />
+                android:background="@color/white" />
 
             <ImageView
                 android:id="@+id/imageView2"
@@ -172,7 +213,7 @@
             android:layout_marginLeft="5dp"
             android:background="@drawable/wocao1"
             android:text="忘记密码"
-            android:textColor="#999999" />
+            android:textColor="#e8e8e0" />
 
         <View
             android:id="@+id/view1"
@@ -180,7 +221,7 @@
             android:layout_height="1dp"
             android:layout_alignParentLeft="true"
             android:layout_below="@+id/relativeLayout2"
-            android:background="@color/bg1" />
+            android:background="@color/white" />
 
         <TextView
             android:id="@+id/textView3"
@@ -192,7 +233,7 @@
             android:layout_marginTop="16dp"
             android:background="@drawable/wocao1"
             android:text="访客登录"
-            android:textColor="#999999" />
+            android:textColor="#e8e8e0" />
 
         <TextView
             android:id="@+id/textView4"
@@ -204,7 +245,7 @@
             android:background="@drawable/wocao1"
             android:clickable="true"
             android:text="English"
-            android:textColor="#999999" />
+            android:textColor="#e8e8e0" />
 
         <Button
             android:id="@+id/login"
@@ -215,8 +256,8 @@
             android:layout_alignTop="@+id/button"
             android:background="@drawable/button_style1"
             android:text="登 录"
-            android:textColor="#acacac"
-            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:textSize="16sp"
             android:visibility="visible" />
 
         <Button
@@ -227,10 +268,10 @@
             android:layout_toEndOf="@+id/Button01"
             android:layout_toRightOf="@+id/Button01"
             android:background="@drawable/button_style1"
-            android:text="注 册"
+            android:text="加入一刻"
 
-            android:textColor="#acacac"
-            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:textSize="16sp"
             android:visibility="visible" />
     </RelativeLayout>
 
@@ -242,8 +283,9 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="28dp"
         android:background="@drawable/wocao1"
-        android:text="免费注册'一刻'帐号"
-        android:textColor="#999999"
-        android:textSize="14sp" />
+        android:text="免费注册《一刻》帐号"
+        android:textColor="#e8e8e0"
+        android:textSize="14sp"
+        android:visibility="invisible" />
 
 </RelativeLayout>

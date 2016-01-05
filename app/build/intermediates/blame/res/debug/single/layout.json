@@ -1,9 +1,5 @@
 [
     {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_list_dropdown_menu.xml",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\note_list_dropdown_menu.xml"
-    },
-    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\folder_list_item.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\folder_list_item.xml"
     },
@@ -12,12 +8,12 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_delete.xml",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\item_listview_delete.xml"
-    },
-    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_delete.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\item_listview_delete.xml"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
@@ -36,10 +32,6 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\settings_header.xml"
     },
     {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_list_footer.xml",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\note_list_footer.xml"
-    },
-    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
     },
@@ -50,10 +42,6 @@
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_4x.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\widget_4x.xml"
-    },
-    {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_edit_list_item.xml",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\note_edit_list_item.xml"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
@@ -184,16 +172,16 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\widget_2x.xml"
     },
     {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_item.xml",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\note_item.xml"
-    },
-    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\she_zhi.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\she_zhi.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shezhi.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\shezhi.xml"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_layout.xml",
@@ -220,12 +208,12 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\pull_to_refresh_header.xml"
     },
     {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_edit.xml",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\note_edit.xml"
-    },
-    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include20.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\include20.xml"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
@@ -244,16 +232,16 @@
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
-    },
-    {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit_text.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\dialog_edit_text.xml"
     },
     {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_list.xml",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\note_list.xml"
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datetime_picker.xml",
+        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\datetime_picker.xml"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
@@ -262,10 +250,6 @@
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview_delete_slide_view_merge.xml",
         "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\activity_listview_delete_slide_view_merge.xml"
-    },
-    {
-        "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datetime_picker.xml",
-        "source": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\src\\main\\res\\layout\\datetime_picker.xml"
     },
     {
         "merged": "G:\\Space\\WorkSpace\\AndroidThink\\Qo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",

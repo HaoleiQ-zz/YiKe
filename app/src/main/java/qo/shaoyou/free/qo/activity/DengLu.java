@@ -1,11 +1,15 @@
 package qo.shaoyou.free.qo.activity;
 
 import android.app.Activity;
+import android.content.ContentValues;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
+import android.support.v7.app.AlertDialog;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.KeyEvent;
@@ -35,6 +39,8 @@ import qo.shaoyou.free.qo.R;
 import qo.shaoyou.free.qo.bean.GameScore;
 import qo.shaoyou.free.qo.bean.MyUser;
 import qo.shaoyou.free.qo.bean.Mybean;
+import qo.shaoyou.free.qo.dataBase.shaoyou_dataBase;
+import qo.shaoyou.free.qo.sql.ManageSQL;
 
 
 public class DengLu extends Activity implements OnClickListener {
@@ -87,7 +93,7 @@ public class DengLu extends Activity implements OnClickListener {
                 String yonghumingzi = "访客";
 //                    Toast.makeText(DengLu.this,yonghumingzi,Toast.LENGTH_LONG).show();
                 SharedPreferences abc = getSharedPreferences(
-                        "www", Context.MODE_PRIVATE);
+                        "shaoyou", Context.MODE_PRIVATE);
                 ;
                 ;
                 ;
@@ -106,13 +112,90 @@ public class DengLu extends Activity implements OnClickListener {
     }
 
     private void jiance() {
-        SharedPreferences aaa = getSharedPreferences("diyicidenglu",
-                Context.MODE_PRIVATE);
-        String a = aaa.getString("name", "");
-        if (a.equals("yes")) {
+        SharedPreferences a = getSharedPreferences("diyicidenglu", Context.MODE_PRIVATE);
+        String nima = a.getString("name", "");
+        if (!nima.equals("yes")) {
+
+
+//
+//            "凄凉别后两应同";
+//            "天不老，情难绝.心似双丝网，中有千千结."
+//            "最是不胜清怨月明中"
+            ManageSQL manageSQL;
+            shaoyou_dataBase mySQLite;
+            mySQLite = new shaoyou_dataBase(this, shaoyou_dataBase.name+".db", null, 1);
+
+
+//                    Toast.makeText(DengLu.this,yonghumingzi,Toast.LENGTH_LONG).show();
+            SharedPreferences abc = getSharedPreferences(
+                    "diyicidenglu", Context.MODE_PRIVATE);
+
+//                    Toast.makeText(DengLu.this, bu2.getEmail() + bu2.getEmailVerified()
+//                            + bu2.getTableName() + bu2.getUsername(), Toast.LENGTH_LONG).show();
+            // 获取编辑器
+            Editor sssa = abc.edit();
+
+            sssa.putString("name", "yes");
+
+            sssa.commit();
+            AlertDialog.Builder dialog = new AlertDialog.Builder(this);
+            dialog.setMessage("尊敬的用户您好，您是首次打开App\n" + "是否注册加入《一刻》?\n★登陆后可云端同步所有数据\n★随时上传/下载数据\n★让您的重要数据永不丢失~");
+            dialog.setPositiveButton("暂不登陆,看看再说",
+                    new android.content.DialogInterface.OnClickListener() {
+
+                        @Override
+                        public void onClick(DialogInterface arg0, int arg1) {
+
+                            Intent ini = new Intent(DengLu.this, Main.class);
+                            startActivity(ini);
+                            String yonghumingzi = "访客";
+//                    Toast.makeText(DengLu.this,yonghumingzi,Toast.LENGTH_LONG).show();
+                            SharedPreferences abc = getSharedPreferences(
+                                    "shaoyou", Context.MODE_PRIVATE);
+                            ;
+                            ;
+                            ;
+                            ;
+//                    Toast.makeText(DengLu.this, bu2.getEmail() + bu2.getEmailVerified()
+//                            + bu2.getTableName() + bu2.getUsername(), Toast.LENGTH_LONG).show();
+                            // 获取编辑器
+                            SharedPreferences.Editor a = abc.edit();
+
+                            a.putString("name", "yes");
+                            a.putString("yonghuming", yonghumingzi);
+                            a.commit();
+                            finish();
+
+                        }
+                    });
+            dialog.setNeutralButton("马上登陆《一刻》",
+                    new android.content.DialogInterface.OnClickListener() {
+
+                        @Override
+                        public void onClick(DialogInterface arg0, int arg1) {
+
+                        }
+                    });
+            dialog.show();
+
 
         }
+        SharedPreferences aaa = getSharedPreferences("diyicidenglu",
+                Context.MODE_PRIVATE);
+        String aaaaaa = aaa.getString("name", "");
+        if (aaaaaa.equals("yes")) {
 
+        }
+        TextView textView1 = (TextView) findViewById(R.id.textView1);
+
+        textView1.setOnLongClickListener(new View.OnLongClickListener() {
+            @Override
+            public boolean onLongClick(View v) {
+                yonghumingEditText.setText("HarryQin");
+                miamaEditText.setText("a550913732");
+                return false;
+            }
+        });
     }
 
     @Override
@@ -149,32 +232,17 @@ public class DengLu extends Activity implements OnClickListener {
                 public void onSuccess() {
 
                     chaxun();
-                    String yonghumingzi = bu2.getUsername();
-//                    Toast.makeText(DengLu.this,yonghumingzi,Toast.LENGTH_LONG).show();
-                    SharedPreferences abc = getSharedPreferences(
-                            "diyicidenglu", Context.MODE_PRIVATE);
-                    ;
-                    ;
-                    ;
-                    ;
-//                    Toast.makeText(DengLu.this, bu2.getEmail() + bu2.getEmailVerified()
-//                            + bu2.getTableName() + bu2.getUsername(), Toast.LENGTH_LONG).show();
-                    // 获取编辑器
-                    Editor a = abc.edit();
 
-                    a.putString("name", "yes");
-                    a.putString("yonghuming", yonghumingzi);
-                    a.commit();
 
                     Toast.makeText(
                             DengLu.this,
                             "尊敬的:" + bu2.getUsername() + "\n" + "\n" + "您好~"
-                                    + "\n" + "\n" + "欢迎使用", Toast.LENGTH_SHORT).show();
+                                    + "\n" + "\n" + "欢迎使用《一刻》", Toast.LENGTH_SHORT).show();
 
                     // testGetCurrentUser();
 
 //                    SharedPreferences abca = getSharedPreferences(
-//                            "www", Context.MODE_PRIVATE);
+//                            "shaoyou", Context.MODE_PRIVATE);
 //                    ;
 //                    ;
 //                    ;
@@ -236,7 +304,7 @@ public class DengLu extends Activity implements OnClickListener {
 //                    Toast.makeText(DengLu.this, object.get(0).getUsername(), Toast.LENGTH_SHORT).show();
 
                     SharedPreferences abc = getSharedPreferences(
-                            "www", Context.MODE_PRIVATE);
+                            "shaoyou", Context.MODE_PRIVATE);
                     ;
                     ;
                     ;
@@ -259,7 +327,7 @@ public class DengLu extends Activity implements OnClickListener {
             });
         } else {
             SharedPreferences abc = getSharedPreferences(
-                    "www", Context.MODE_PRIVATE);
+                    "shaoyou", Context.MODE_PRIVATE);
             ;
             ;
             ;
