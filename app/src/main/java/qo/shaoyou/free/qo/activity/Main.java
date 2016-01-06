@@ -1050,12 +1050,9 @@ public class Main extends AppCompatActivity
         mListView.setOnItemClickListener(this);
 //        mListView.setOnRefreshListener(this);
 //        mListView.setOnLoadListener(this);
-
-        mListView.setOnItemLongClickListener(new AdapterView.OnItemLongClickListener() {
+        mListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
-            public boolean onItemLongClick(AdapterView<?> parent, View view, int position, long id) {
-
-
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 TextView msg = (TextView) view.findViewById(R.id.msg);
                 if (!ri_zhi_yes) {
                     Intent in89 =
@@ -1070,11 +1067,10 @@ public class Main extends AppCompatActivity
                             new Intent(Main.this, Add_rizhi.class);
                     startActivity(in89);
                 }
-                return false;
             }
         });
 
-
+    
     }
 
     public void initView2() {
