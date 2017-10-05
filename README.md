@@ -1,7 +1,7 @@
 # _YiKe
 "The moment" open source personal time management tools
 
-#### Android Download：https://github.com/HaoLeiQ/_YiKe/blob/master/%E4%B8%80%E5%88%BB.apk?raw=true
+#### [Android Download](https://github.com/HaoLeiQ/YiKe/raw/master/YiKe.apk)：https://github.com/HaoLeiQ/YiKe/raw/master/YiKe.apk
 
 #### V 2.0 
 ![image](https://raw.githubusercontent.com/HaoLeiQ/YiKe/master/show2.png)
